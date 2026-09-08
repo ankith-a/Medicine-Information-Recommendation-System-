@@ -72,10 +72,32 @@ The recommendation models were evaluated using **Top-5 Accuracy** across differe
 ## 📁 Project Structure
 
 ```text
-├── medical.ipynb                        
-├── medicine_dataset.csv                 
-├── medicine_summary.csv                 
-├── medicine_treatment_rf_model.pkl      
+Medical-Medicine-Recommendation/
+│
+├── notebook/
+│   └── medical-checkpoint.ipynb
+│
+├── data/
+│   └── medicine_dataset.csv
+│
+├── screenshots/
+│   ├── eda.png
+│   ├── medicine_recommendation.png
+│   └── treatment_prediction.png
+│
+├── models/
+│   └── medicine_treatment_rf_model.pkl
+│
+├── app/
+│   ├── Home.py
+│   └── Pages/
+│       ├── EDA.py
+│       └── Prediction.py
+│
+├── medicine_summary.csv
+│
+├── requirements.txt
+│
 └── README.md
 ```
 
