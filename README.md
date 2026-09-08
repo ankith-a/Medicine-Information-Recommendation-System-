@@ -89,10 +89,7 @@ Medical-Medicine-Recommendation/
 │   └── medicine_treatment_rf_model.pkl
 │
 ├── app/
-│   ├── Home.py
-│   └── Pages/
-│       ├── EDA.py
-│       └── Prediction.py
+│   └── app.py 
 │
 ├── medicine_summary.csv
 │
