@@ -7,7 +7,7 @@ import base64
 
 # =========================================================
 # PAGE CONFIGURATION
-# =========================================================
+# ========================================================= 
 
 st.set_page_config(
     page_title="Medicine Information & Recommendation System",
