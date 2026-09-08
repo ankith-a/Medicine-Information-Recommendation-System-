@@ -72,10 +72,10 @@ The recommendation models were evaluated using **Top-5 Accuracy** across differe
 ## 📁 Project Structure
 
 ```text
-├── medical.ipynb                        # Main Jupyter Notebook with EDA + models
-├── medicine_dataset.csv                 # Raw dataset (not included in repo)
-├── medicine_summary.csv                 # Cleaned/aggregated summary data (generated)
-├── medicine_treatment_rf_model.pkl      # Trained Random Forest model (generated)
+├── medical.ipynb                        
+├── medicine_dataset.csv                 
+├── medicine_summary.csv                 
+├── medicine_treatment_rf_model.pkl      
 └── README.md
 ```
 
